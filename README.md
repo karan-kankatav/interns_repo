@@ -1,2 +1,2 @@
 # interns_repo
-This repository is created for interns
+This repository is for interns
