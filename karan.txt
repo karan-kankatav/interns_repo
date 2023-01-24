@@ -1,2 +1,2 @@
 on master branch 
-switch on temp branch 
+merge the temp branch with the master branch
